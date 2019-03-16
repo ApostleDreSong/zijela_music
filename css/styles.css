@@ -1,0 +1,60 @@
+img{
+    width:100%;
+}
+.music-play{
+    cursor:pointer;
+}
+.albumLabel{
+    display:none;
+}
+#resetContainer, #resetCodeBlock{
+    display:none;
+}
+#audio{
+	position:fixed;
+	bottom:0;
+	left:0;
+	width:100%;
+	background-color:black;
+	color:white;
+}
+#searchContainer,#searchContainer>form>input{
+	width:100%;
+}
+.hidden{
+	display:none;
+}
+#audioPlayer{
+	width:100%;
+}
+#bottomPushUp{
+	margin-top:150px;
+}
+.cursor{
+	cursor:pointer;
+}
+.match{
+	background-color:green;
+	color:white;
+}
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.dashBoardMenuButton{
+	background-color:#b2beb5;
+	 border-style: solid;
+	border-width: 2px;
+	border-radius:5px;
+	padding: 5px;
+	border-color:white;
+	color:white;
+}
+.solidBorder{
+	border-style: solid;
+	border-width: 2px;
+}
+#playListDiv{
+	background-color:black;
+	color:white;
+}
